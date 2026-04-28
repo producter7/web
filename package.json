@@ -1,0 +1,12 @@
+{
+  "name": "parfum-shop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
